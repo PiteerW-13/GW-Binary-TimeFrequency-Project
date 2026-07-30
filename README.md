@@ -1,4 +1,4 @@
-# Computational Simulation of Gravitational Waves
+# Computational Simulation and Analysis in Orbital Evolution and Time-Frequency Morphology of Gravitational Waves from Compact Binary Systems
 
 Author:
 Peter Zhuo Xi Wu
@@ -16,11 +16,3 @@ How does orbital evolution of compact binary systems shape the time-frequency mo
 - simulate inspiral chirps
 - produce spectrograms
 - compare different binary systems
-
-## Repository Structure
-
-src/
-notebooks/
-figures/
-report/
-docs/
